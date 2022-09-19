@@ -1,0 +1,28 @@
+scrap data jobs from one of these three websites :- 
+
+1-Linkedin 
+
+2-Wuzzuf
+
+3-Indeed
+
+
+search by these following jobs 
+
+1-Data analysis jobs
+
+2-machine learning jobs
+
+3-software testing jobs
+
+scarpt the following information from each job 
+
+title
+
+location
+
+country
+
+job-description
+
+company name
