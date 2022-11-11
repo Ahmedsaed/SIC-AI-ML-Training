@@ -1,15 +1,20 @@
 {
     "cSpell.words": [
         "adinishad",
+        "ascontiguousarray",
         "denormalize",
         "denormalized",
         "dheerajperumandla",
         "facecolor",
         "facemesh",
         "figsize",
+        "frontalface",
+        "haarcascade",
         "idxs",
+        "imread",
         "lmks",
         "mediapipe",
+        "rakibuleceruet",
         "RELU"
     ]
 }
