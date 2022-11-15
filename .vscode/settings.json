@@ -1,20 +1,33 @@
 {
     "cSpell.words": [
         "adinishad",
+        "argmax",
         "ascontiguousarray",
+        "crossentropy",
         "denormalize",
         "denormalized",
         "dheerajperumandla",
+        "DIVX",
         "facecolor",
         "facemesh",
         "figsize",
+        "fourcc",
+        "fromarray",
         "frontalface",
+        "funcs",
         "haarcascade",
         "idxs",
         "imread",
+        "levelname",
         "lmks",
         "mediapipe",
+        "ndarray",
+        "opencv",
+        "preprocess",
         "rakibuleceruet",
-        "RELU"
+        "RELU",
+        "selectbox",
+        "streamlit",
+        "webrtc"
     ]
 }
